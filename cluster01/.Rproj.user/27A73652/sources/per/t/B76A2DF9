@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588071762709.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B76A2DF9",
+    "lastKnownWriteTime" : 71501241154470928,
+    "last_content_update" : 1588071762709,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4FE2FBFA",
+        "caption" : "posisiones_DR_rescue",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=posisiones_DR_rescue&cache_key=4FE2FBFA",
+        "displayedObservations" : "1268",
+        "environment" : "",
+        "expression" : "posisiones_DR_rescue",
+        "object" : "posisiones_DR_rescue",
+        "preview" : "0",
+        "totalObservations" : "1268",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

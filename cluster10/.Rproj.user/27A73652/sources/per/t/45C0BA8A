@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589394972855.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "45C0BA8A",
+    "lastKnownWriteTime" : 94794158829816,
+    "last_content_update" : 1589394972855,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9D7E9220",
+        "caption" : "G1578.snp.rescue.final",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=G1578.snp.rescue.final&cache_key=9D7E9220",
+        "displayedObservations" : "873",
+        "environment" : "",
+        "expression" : "G1578.snp.rescue.final",
+        "object" : "G1578.snp.rescue.final",
+        "preview" : "0",
+        "totalObservations" : "873",
+        "variables" : "19"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

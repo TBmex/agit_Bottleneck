@@ -1,0 +1,6 @@
+Hubo un problema que no pude solucionar en cuento a librerias
+decide reemplazar la siguiente libreria en el codigo y ahora funciona:
+
+
+#library(mdatools) -> library original
+library(pracma) -> new library

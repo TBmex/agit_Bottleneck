@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588075644446.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "957215A8",
+    "lastKnownWriteTime" : 94534407905608,
+    "last_content_update" : 1588075644446,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C27147B4",
+        "caption" : "G1011_recue_vs_annof",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=G1011_recue_vs_annof&cache_key=C27147B4",
+        "displayedObservations" : "888",
+        "environment" : "",
+        "expression" : "G1011_recue_vs_annof",
+        "object" : "G1011_recue_vs_annof",
+        "preview" : "0",
+        "totalObservations" : "888",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

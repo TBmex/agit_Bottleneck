@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588075119743.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "71FA5A18",
+    "lastKnownWriteTime" : 94534362625512,
+    "last_content_update" : 1588075119743,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F9899817",
+        "caption" : "G1449.EPI.snp.final",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=G1449.EPI.snp.final&cache_key=F9899817",
+        "displayedObservations" : "860",
+        "environment" : "",
+        "expression" : "G1449.EPI.snp.final",
+        "object" : "G1449.EPI.snp.final",
+        "preview" : "0",
+        "totalObservations" : "860",
+        "variables" : "19"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

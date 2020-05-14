@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588073125706.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F7304628",
+    "lastKnownWriteTime" : 71501241154470928,
+    "last_content_update" : 1588073125706,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9E896842",
+        "caption" : "annoF_vs_recue",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=annoF_vs_recue&cache_key=9E896842",
+        "displayedObservations" : "888",
+        "environment" : "",
+        "expression" : "annoF_vs_recue",
+        "object" : "annoF_vs_recue",
+        "preview" : "0",
+        "totalObservations" : "888",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,37 @@
+FLUJO DE TRABAJO EN R PARA CLUSTERS
+
+PARA CAMBIAR DE FORMA MASIVA "," por "." y QUITAR %
+for i in *.DR.snp.final; do
+    sed -i 's/,/./g'  $i
+done
+
+IMPORTAR .DR.snp.final a R MARCANDO QUE TIENE ENCABEZADO.
+
+EXTRAER COLUMNAS Position y VarFreq
+C10_donor_G1570<-G1570.DR.snp[c(2,7)]
+C10_recep_G1578<-G1578.DR.snp[c(2,7)]
+
+CAMBIAR NOMBRE A COLUMNAS
+names(C10_donor_G1570)=c("Position","Freq_D")
+names(C10_recep_G1578)=c("Position","Freq_R")
+
+REALIZAR MERGE
+c10<-merge (C10_donor_G1570, C10_recep_G1578, by = "Position", all.x=TRUE, all.y=TRUE)
+
+EXPORTAR A EXEL
+write.csv(c10, file="c10.csv", row.names = F)
+
+TRABAJAR EN EXEL
+
+CONDICIONAR COLUMNAS 1 Y 2 
+=IF(B2*C2,1,2)
+CAMBIAR Valores "NA" POR "0"
+
+GUARDAR EN CSV Y VOLVER A IMPORTAR A R
+
+TRANSFORMAR VARIABLES
+C01$SNPs <- as.factor(C01$SNPs)
+
+GRAFICAR CON EL SIGUIENTE COMANDO
+ggplot(C01, aes(x=Freq_D, y=Freq_R, shape=SNPs, color=SNPs)) + geom_point() + geom_smooth(data=C01[which(C01$SNPs==1),], method=lm)
+
