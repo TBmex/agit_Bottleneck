@@ -1,0 +1,21 @@
+Se copian los archivos a la carpeta.
+
+xargs -n 1 cp -v 2_1_filtering_modificado.R <<<"cluster26/ cluster27/ cluster28/ cluster29/ cluster30/ cluster31/ cluster32/"
+
+xargs -n 1 cp -v script_bottleneck.sh <<<"cluster26/ cluster27/ cluster28/ cluster29/ cluster30/ cluster31/ cluster32/"
+
+Ahora se realiza obtencion de los ".snp.rescue.final.annoF" NOTA: Realizar un bucle bucle para la obtencion autmatica
+
+for i in *.snp.rescue.final.annoF; do
+    sed -i 's/%/ /g'  $i
+done
+
+[carlos@yersin cluster02]$ ./script_bottleneck.sh
+[1] "G1023.snp.rescue"
+[1] "66  SNPS found in density test ( 10 bp window )"
+[1] "2  SNPS found near INDEL areas ( 0 bp window )"
+[1] "G945.snp.rescue"
+[1] "66  SNPS found in density test ( 10 bp window )"
+[1] "2  SNPS found near INDEL areas ( 0 bp window )"
+Filtering PPE/repeat/phage regions
+Filtering PPE/repeat/phage regions
