@@ -1,8 +1,8 @@
 #!/bin/bash
 
-VAR1="cluster"
+VAR1="CL"
 
-for i in {02..32}
+for i in {05,08,10,31,78}
   do
     VAR2="$VAR1$i"
     echo Ejecutando script en carpeta: "$VAR2"
