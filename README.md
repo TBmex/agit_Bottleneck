@@ -13,3 +13,5 @@
 *El proyecto va pausado hasta elegir mas parejas, hasta ahora al parecer pueden ser unas 32 + las que s agregegn del proyecto del arbol 1277 a 10snp y 12 snp, las parejas se muestran en el archivo "Resumen.odp"*
 
 **El proyecto se reanuda con la asesoria de Susana**
+
+Actualización antes de reunión.
