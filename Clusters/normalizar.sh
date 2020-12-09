@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Estos comandos solo ayudan a dar formato, cambiamos comas por puntos y eliminamos %
 VAR1="cluster"
 
 for i in {02..32}

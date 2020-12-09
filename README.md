@@ -1,17 +1,19 @@
-# agit_Bottleneck
+## agit_Bottleneck
 
-- Las siguientes carpetas muestran:
+### Las siguientes carpetas muestran:
 
-- ORIGINAL el repositorio original del articulo
+- **BB_bottleneck-master_ORIGINAL**, repositorio original del articulo.
 
-- MODIFICADO una modificación del repositorio original y donde realizo las pruebas
+- **bottleneck_val_MODIFICADO**, modificación del repositorio original para la realización de pruebas, el programa se ejecuta aunque aun no se comprenden los resultados obtenidos.
 
-- Cluster 1 y 10 donde reviso y analizo los filtrados "rescue" para ver que todo este bien
+- **Clusters**, graficos de las frecuencias de parejas Donor vs Receptor.
+- **Resumen.odp**, diapositivas con el resumen de la carpeta clusters.
 
-- agit_bottleneck archivos complemetarios y scrips utilizados de forma recurrente
+- **flujo_bottleneck**, archivos complemetarios y scrips extras utilizados de forma recurrente.
 
-*El proyecto va pausado hasta elegir mas parejas, hasta ahora al parecer pueden ser unas 32 + las que s agregegn del proyecto del arbol 1277 a 10snp y 12 snp, las parejas se muestran en el archivo "Resumen.odp"*
+- **para_manoli**, contiene las parejas propuestas para deep secuenci.
 
-**El proyecto se reanuda con la asesoria de Susana**
 
-Actualización antes de reunión.
+
+
+***Hola Susana, cualquier situación o duda respecto a este proyecto puedes escribirme sin problema.***
