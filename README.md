@@ -16,4 +16,5 @@
 
 
 
-***Hola Susana, cualquier situación o duda respecto a este proyecto puedes escribirme sin problema.***
+***Hola Claudia, cualquier situación o duda respecto a este proyecto puedes escribirme sin problema.***
+- cafeinauv@gmail.com
